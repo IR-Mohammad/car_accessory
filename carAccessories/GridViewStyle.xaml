@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <DataTemplate x:Key="GridViewCellStyle" >
+        <TextBlock  ></TextBlock>
+        
+    </DataTemplate>
+    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" x:Key="btnGradiantStyle">
+        <GradientStop Color="Black"/>
+        <GradientStop Color="#FF0DE86A" Offset="1"/>
+    </LinearGradientBrush>
+    <Style x:Key="btnStyle" TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource btnGradiantStyle}"/>
+        <Setter Property="Width" Value="60"></Setter>
+        <Setter Property="Height" Value="60"></Setter>
+        <Setter Property="Margin" Value="10,0,50,0"> </Setter>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    
+</ResourceDictionary>

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\moham\\onedrive\\desktop\\caraccessoriesproject\\databaseaccess\\loadandsaveaccessdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\loadandsaveaccessdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7334534E-7FAF-4C1B-AB8A-09CBAAF2FE3F}|carAccessories\\carAccessories.csproj|c:\\users\\moham\\onedrive\\desktop\\caraccessoriesproject\\caraccessories\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7334534E-7FAF-4C1B-AB8A-09CBAAF2FE3F}|carAccessories\\carAccessories.csproj|solutionrelative:caraccessories\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\moham\\onedrive\\desktop\\caraccessoriesproject\\databaseaccess\\sqlcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\sqlcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7334534E-7FAF-4C1B-AB8A-09CBAAF2FE3F}|carAccessories\\carAccessories.csproj|c:\\users\\moham\\onedrive\\desktop\\caraccessoriesproject\\caraccessories\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7334534E-7FAF-4C1B-AB8A-09CBAAF2FE3F}|carAccessories\\carAccessories.csproj|solutionrelative:caraccessories\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\moham\\onedrive\\desktop\\caraccessoriesproject\\databaseaccess\\stuffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB018B8C-7CF9-4C33-B358-23495B02EEA5}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\stuffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\carAccessories\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "carAccessories\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\carAccessories\\MainWindow.xaml.cs",
+              "RelativeToolTip": "carAccessories\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:13:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\carAccessories\\AppSettings.json",
+              "RelativeDocumentMoniker": "carAccessories\\AppSettings.json",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\carAccessories\\AppSettings.json",
+              "RelativeToolTip": "carAccessories\\AppSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T17:13:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadAndSaveAccessDb.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\LoadAndSaveAccessDb.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\LoadAndSaveAccessDb.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\LoadAndSaveAccessDb.cs",
+              "RelativeToolTip": "DataBaseAccess\\LoadAndSaveAccessDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:13:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StuffModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\StuffModel.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\StuffModel.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\StuffModel.cs",
+              "RelativeToolTip": "DataBaseAccess\\StuffModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:13:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlCrud.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\SqlCrud.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\SqlCrud.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\carAccessoriesProject\\DataBaseAccess\\SqlCrud.cs",
+              "RelativeToolTip": "DataBaseAccess\\SqlCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:13:01.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

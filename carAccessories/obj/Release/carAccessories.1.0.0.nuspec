@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>carAccessories</id>
+    <version>1.0.0</version>
+    <authors>carAccessories</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.22621">
+        <dependency id="DataBaseAccess" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.22621">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows10.0.22621/images/logo_auto_acc.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Release\net6.0-windows10.0.22621.0\win-x64\carAccessories.runtimeconfig.json" target="lib\net6.0-windows10.0.22621\carAccessories.runtimeconfig.json" />
+    <file src="C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Release\net6.0-windows10.0.22621.0\win-x64\carAccessories.dll" target="lib\net6.0-windows10.0.22621\carAccessories.dll" />
+    <file src="C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\images\logo_auto_acc.png" target="content\images\logo_auto_acc.png" />
+    <file src="C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\images\logo_auto_acc.png" target="contentFiles\any\net6.0-windows10.0.22621\images\logo_auto_acc.png" />
+  </files>
+</package>

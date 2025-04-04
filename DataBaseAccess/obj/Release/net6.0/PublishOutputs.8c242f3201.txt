@@ -1,0 +1,17 @@
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\DataBaseAccess.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\Dapper.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\Microsoft.Data.Sqlite.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\SQLitePCLRaw.core.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\System.Data.SQLite.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

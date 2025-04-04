@@ -1,0 +1,112 @@
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\images\logo_auto_acc.png
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\AppSettings.json
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.exe
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Dapper.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Data.Sqlite.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\SQLitePCLRaw.core.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Data.SQLite.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Text.Json.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\App.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_Content.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_MarkupCompile.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\refint\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\ref\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_MarkupCompile.lref
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.baml
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.g.resources
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\GridViewStyle.baml
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\data.db
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\data.db
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\images\logo_auto_acc.png
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\AppSettings.json
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.exe
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.deps.json
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\carAccessories.pdb
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Dapper.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Data.Sqlite.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\SQLitePCLRaw.core.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Data.SQLite.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\System.Text.Json.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\bin\Debug\net6.0-windows10.0.22621.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\GridViewStyle.baml
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\App.g.cs
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_Content.g.cs
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_MarkupCompile.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories_MarkupCompile.lref
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.baml
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.g.resources
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\refint\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.pdb
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAccessories.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\ref\carAccessories.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\carAccessories\obj\Debug\net6.0-windows10.0.22621.0\carAcces.08189B88.Up2Date

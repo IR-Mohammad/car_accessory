@@ -1,0 +1,26 @@
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\refint\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\ref\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\New folder\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\data.db
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\data.db
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.deps.json
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\bin\Debug\net6.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\refint\DataBaseAccess.dll
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\DataBaseAccess.pdb
+C:\Users\moham\OneDrive\Desktop\carAccessoriesProject\DataBaseAccess\obj\Debug\net6.0\ref\DataBaseAccess.dll
